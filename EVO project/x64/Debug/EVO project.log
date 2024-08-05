@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(128,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(524,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(518,17): warning C4101: 'mutationBit': unreferenced local variable
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(611,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(635,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\Source1.cpp(779,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EVO project.vcxproj -> D:\UTeM\FTMK\YEAR2 SEM2\BITI3143 EVOLUTIONARY COMPUTING\Project\EVO project\x64\Debug\EVO project.exe
